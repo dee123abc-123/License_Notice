@@ -1,1 +1,8 @@
+Notice for Project XYZ
+
+This software makes use of the following open-source projects:
+1. OpenSSL - https://www.openssl.org/
+2. zlib - https://zlib.net/
+
+Special thanks to the contributors of these projects.
 
